@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041620136015",
+    "project_id": "sensora-01",
+    "storage_bucket": "sensora-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041620136015:android:71be598e226affbe8b3a3a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVnp67w4VWVMgnjpQYZj60CZtxkPcbVk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
